@@ -1,1 +1,6 @@
-print("Ciao Mondo")
+print("Il mio primo programma python con github commit")
+int primoNumero
+int secondoNumero
+int somma
+somma=primoNumero+secondoNumero
+print(somma)
